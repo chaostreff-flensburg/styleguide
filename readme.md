@@ -10,7 +10,7 @@ Im Ordner [img](./img) befinden sich alle hier gezeigten Grafiken und weitere El
 
 ### Logo
 
-![](./img/ctfl-logo.svg)
+![](./img/ctfl-logo-01.png)
 
 Das Schriftlogo stellt der Schriftzug "chaos flensburg" in der Schriftart "stiff staff heavy" im dreizeiligen Versatz dar. Kein anderes Element wird in dieser Schriftart gesetzt.
 
